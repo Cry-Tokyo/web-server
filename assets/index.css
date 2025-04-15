@@ -1,0 +1,131 @@
+body {
+    margin: 0px;
+    font-family: "JetBrains Mono";
+}
+nav {
+    height: 93px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul {
+    margin-top: 0px;
+}
+il.header_item {
+    font-size: 1rem;
+}
+header {
+    background: #121318;
+    color: #ffffff;
+    position: sticky;
+    top: 0;
+}
+header.arrow {
+}
+header.arrow:hover {
+}
+button.demo_button {
+    all: unset;
+    cursor: pointer;
+    padding: 10px;
+    border: solid 2px #8b6eff;
+    font-family: "JetBrains Mono";
+    font-weight: bold;
+    font-size: 14px;
+}
+button.demo_button:hover {
+    background: #8b6eff;
+}
+a.auth {
+    cursor: pointer;
+    padding: 10px;
+    border: solid 2px #8b6eff;
+    font-family: "JetBrains Mono";
+    font-weight: bold;
+    font-size: 14px;
+}
+a.auth:hover {
+    background: #8b6eff;
+}
+
+section.banner {
+    display: flex;
+    background: #dce3f9;
+    width: 100%;
+    height: 51px;
+}
+div.trending {
+    background: #8b6eff;
+    padding: 10px 15px;
+}
+div.trending-content {
+    padding: 10px 15px;
+    flex-grow: 1;
+}
+section.intro {
+    height: 432.95px;
+    background: #0a0a0a;
+}
+section.platform_img {
+    height: 503.65px;
+}
+section.what_we_do {
+    height: 970.4px;
+    background: #0a0a0a;
+}
+section.products {
+    height: 1652.48px;
+    background: #0a0a0a;
+}
+section.investigations {
+    height: 972.5px;
+    background: #121318;
+}
+section.indusrties {
+    height: 929.8px;
+    background: #0a0a0a;
+}
+section.trending {
+    height: 1318.6px;
+    background: #0a0a0a;
+}
+section.clients {
+    height: 980.8px;
+    background: #0a0a0a;
+}
+section.testimonials {
+    height: 2039.6px;
+    background: #121318;
+}
+section.slogan {
+    height: 632px;
+}
+section.demo {
+    height: 894.4px;
+    background: #0a0a0a;
+}
+section.mentions {
+    height: 664.2px;
+    background: #0a0a0a;
+}
+section.articles {
+    height: 843.133px;
+    background: #ececec;
+}
+
+footer {
+    height: 817.917px;
+    background: #ececec;
+    color: #121318;
+}
+div.lower_footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div.copyright {
+    font-size: 1.824rem;
+}
+span.copyright_symbol {
+    color: #8b6eff;
+}
